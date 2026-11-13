@@ -1,3 +1,11 @@
+# =============================================================================
+# OUTDATED: this repository has moved to LOD-AM/knowledge-graph and is archived.
+# This file is kept unchanged for old links; it does NOT parse as Turtle and
+# uses several terms that don't exist in CIDOC CRM 7.1.3 / Allotrope / FaBiO.
+# Current, validated version:
+#   https://github.com/LOD-AM/knowledge-graph/blob/main/examples/lod-am-example.ttl
+# =============================================================================
+
 @prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
 @prefix fabio: <http://purl.org/spar/fabio/> .
 @prefix afo: <http://www.allotrope.org/ontologies/result#> .
